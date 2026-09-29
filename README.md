@@ -66,8 +66,8 @@ Explore Pokémon through a visually engaging interface featuring artwork, intera
 
 ## 🔗 Links
 
-* **Live Demo:** YOUR_VERCEL_DEPLOYMENT_URL
-* **GitHub Repository:** YOUR_GITHUB_REPOSITORY_URL
+* **Live Demo:** ->[https://pokemon-api-rosy-tau.vercel.app/]
+* **GitHub Repository:** -> [https://github.com/Shahz-ft/pokemonApi]
 
 ## 📚 What I Learned
 
